@@ -1,0 +1,1 @@
+### this project is template for creating OpenGL projects without having to write the boilerplate stuff

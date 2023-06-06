@@ -1,0 +1,1 @@
+this folder is for classes and structs like camera lights etc.
